@@ -1,0 +1,11 @@
+C:\Users\raule\Source\repos\NumbersWords\NumbersWords\bin\Debug\netcoreapp2.0\NumbersWords.deps.json
+C:\Users\raule\Source\repos\NumbersWords\NumbersWords\bin\Debug\netcoreapp2.0\NumbersWords.runtimeconfig.json
+C:\Users\raule\Source\repos\NumbersWords\NumbersWords\bin\Debug\netcoreapp2.0\NumbersWords.runtimeconfig.dev.json
+C:\Users\raule\Source\repos\NumbersWords\NumbersWords\bin\Debug\netcoreapp2.0\NumbersWords.dll
+C:\Users\raule\Source\repos\NumbersWords\NumbersWords\bin\Debug\netcoreapp2.0\NumbersWords.pdb
+C:\Users\raule\Source\repos\NumbersWords\NumbersWords\obj\Debug\netcoreapp2.0\NumbersWords.csprojResolveAssemblyReference.cache
+C:\Users\raule\Source\repos\NumbersWords\NumbersWords\obj\Debug\netcoreapp2.0\NumbersWords.csproj.CoreCompileInputs.cache
+C:\Users\raule\Source\repos\NumbersWords\NumbersWords\obj\Debug\netcoreapp2.0\NumbersWords.AssemblyInfoInputs.cache
+C:\Users\raule\Source\repos\NumbersWords\NumbersWords\obj\Debug\netcoreapp2.0\NumbersWords.AssemblyInfo.cs
+C:\Users\raule\Source\repos\NumbersWords\NumbersWords\obj\Debug\netcoreapp2.0\NumbersWords.dll
+C:\Users\raule\Source\repos\NumbersWords\NumbersWords\obj\Debug\netcoreapp2.0\NumbersWords.pdb
