@@ -1,33 +1,22 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
 
 namespace NumbersWords
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
-            String Words = "";
+            var Words = "";
+            Console.WriteLine("Write the sequence of words: ");
             Words = Console.ReadLine();
-            int count = 1;
+            var count = 1;
 
 
-            for (int i = 0; i < Words.Length; i++)
-            {
-
+            for (var i = 0; i < Words.Length; i++)
                 if (Words[i] >= 'A' && Words[i] <= 'Z')
-                {
-
                     count++;
-                }
-            }
 
-            Console.WriteLine(count);
-
-
-
+            Console.WriteLine("Number of words found {0}",count);
         }
     }
 }
